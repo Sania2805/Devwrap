@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import './styles.css';
+import './css/styles.css';
 import PatientPanel from './components/PatientPanel';
 import DoseControl from './components/DoseControl';
 import VitalMonitor from './components/VitalMonitor';
